@@ -1,0 +1,12 @@
+{
+	"title"		:	"[TTT2] Cursed Deagle",
+	"type"		:	"ServerContent",
+    "tags"		:	[ "roleplay", "fun" ],
+    "ignore"    : [
+        ".git/*",
+        ".gitignore",
+        "README.md",
+        "ttt2-wep_cursed_deagle.jpg",
+        "ttt2-wep_cursed_deagle.txt"
+    ]
+}

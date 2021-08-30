@@ -1,0 +1,19 @@
+[URL=https://steamcommunity.com/sharedfiles/filedetails/?id=1357204556]TTT2[/URL] Required
+[URL=https://steamcommunity.com/sharedfiles/filedetails/?id=2535321538]Cursed role[/URL] Required
+ 
+Source: [url=https://github.com/AaronMcKenney/ttt2-wep_cursed_deagle][/url]
+ 
+The Cursed Deagle is a weapon purchasable by the Traitor. It will change the role of whoever it hits into a [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2535321538]Cursed[/URL]. It only has one shot, and may not be used against Detectives. 
+ 
+While this will effectively instantly eliminate a player from an enemy team, it can backfire on the shooter due to the Cursed's role swapping abilities. Buying a [URL=https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=2588987999]Countercurse Mantra[/URL] will prevent this but in turn risks revealing the shooter as a Traitor.
+ 
+[h1]Cursed Deagle ConVars (also found in ULX):[/h1]
+[code]# How many seconds should it take for the Cursed Deagle to refill if it fails (<=0 to not refill at all)?
+  ttt2_cursed_deagle_refill_time [0..n] (default: 30)
+# Can the Cursed Deagle be used on Detectives?
+  ttt2_cursed_deagle_affect_det [0/1] (default: 0)[/code]
+ 
+--
+[h1]Credits:[/h1]
+[URL=https://steamcommunity.com/profiles/76561198025772353/]BlackMagicFine[/URL]: creator of this role addon
+[URL=https://steamcommunity.com/id/SmugglesTheButt/]Smuggles[/URL]: Creator of the original Cursed icon, which I messed with for the thumbnail. Thumbnail also uses deagle icon, which was created by TTT2 devs.
